@@ -1,0 +1,12 @@
+Changes
+lib/HeliosX/MapReduceService.pm
+lib/HeliosX/MapReduceService/BurstError.pm
+lib/HeliosX/MapReduceService/Job.pm
+lib/HeliosX/MapReduceService/Metajob.pm
+lib/HeliosX/MapReduceService/MetajobId.pm
+lib/HeliosX/MapReduceService/MetajobStatus.pm
+Makefile.PL
+MANIFEST
+README
+t/HeliosX-MapReduceService.t
+META.yml                                 Module meta-data (added by MakeMaker)

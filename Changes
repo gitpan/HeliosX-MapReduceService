@@ -1,0 +1,6 @@
+Revision history for Perl extension HeliosX::MetajobService.
+
+0.01  Thu Nov  6 19:27:34 2008
+	- original version; created by h2xs 1.23 with options
+		-XA -b5.8.0 HeliosX::MetajobService
+
